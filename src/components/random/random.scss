@@ -1,0 +1,61 @@
+@import '../../sass/mixins.scss';
+
+.container {
+    background-color: #3F681C;
+    height: calc(100% - 80px);
+    padding: 20px;
+    text-align: center;
+    h1 {
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .container-img {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+        @include breakpoint-tablet {
+            margin: 0 auto;
+            width: 40%;
+        }
+        @include breakpoint-desktop-2 {
+            width: 25%;
+        }
+        figure {
+            background-color: #fff;
+            box-shadow: 1px 2px 3px black;
+            margin: 15px auto;
+            padding: 5px;
+            width: 100%;
+            img {
+                height: 50vh;
+                width: 100%;
+            }
+        }
+    }
+    button {
+        background-color: #FFBB00;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        letter-spacing: 3px;
+        outline: none;
+        padding: 10px 30px;
+        transition: .5s ease-in-out;
+        width: 100%;
+        @include breakpoint-tablet {
+            width: 40%;
+        }
+        @include breakpoint-desktop-2 {
+            width: 25%;
+        }
+        &:hover {
+            background-color: #fff;
+            color: #FFBB00;
+        }
+    }
+}
