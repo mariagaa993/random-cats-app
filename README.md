@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It is a simple application that shows random cats brought from an API.
 
-Link: [Random Cats App] 
+Link: [Random-Cats-App] 
 (https://mariagaa993.github.io/random-cats-app/index.html).
 
 Remember that when you download it, you must run the command yarn or npm install.
