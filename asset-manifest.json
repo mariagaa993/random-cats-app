@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-cats-app/static/css/main.c71b3349.chunk.css",
+    "main.js": "/random-cats-app/static/js/main.c62066bc.chunk.js",
+    "main.js.map": "/random-cats-app/static/js/main.c62066bc.chunk.js.map",
+    "runtime-main.js": "/random-cats-app/static/js/runtime-main.9ff2af21.js",
+    "runtime-main.js.map": "/random-cats-app/static/js/runtime-main.9ff2af21.js.map",
+    "static/js/2.bdb867e0.chunk.js": "/random-cats-app/static/js/2.bdb867e0.chunk.js",
+    "static/js/2.bdb867e0.chunk.js.map": "/random-cats-app/static/js/2.bdb867e0.chunk.js.map",
+    "index.html": "/random-cats-app/index.html",
+    "precache-manifest.298050f0c258f24f899a85caa94b944a.js": "/random-cats-app/precache-manifest.298050f0c258f24f899a85caa94b944a.js",
+    "service-worker.js": "/random-cats-app/service-worker.js",
+    "static/css/main.c71b3349.chunk.css.map": "/random-cats-app/static/css/main.c71b3349.chunk.css.map",
+    "static/js/2.bdb867e0.chunk.js.LICENSE.txt": "/random-cats-app/static/js/2.bdb867e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ff2af21.js",
+    "static/js/2.bdb867e0.chunk.js",
+    "static/css/main.c71b3349.chunk.css",
+    "static/js/main.c62066bc.chunk.js"
+  ]
+}
